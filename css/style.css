@@ -79,3 +79,49 @@ img.system-img {
   font-size: 12px;
   color: #FFA64D;
 }
+
+/* about.html  */
+.people-img {
+  max-width: 140px;
+}
+
+.sns-img {
+  max-width: 30px;
+}
+
+.sns-icon-table {
+  text-align: center;
+  margin: auto;
+}
+
+.sns-icon-table-img {
+  text-align: center;
+  margin: auto;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.profile {
+  margin-top: 16px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.profile-name {
+  margin: 10px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.profile-text {
+  text-align: center;
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 40px;
+  font-size: 11px;
+}
