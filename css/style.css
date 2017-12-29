@@ -103,25 +103,44 @@ img.system-img {
   padding-bottom: 10px;
 }
 
+.prfile-title{
+  text-align: center;
+  font-size: 24px;
+  color: #FFA64D;
+}
+
+.prfile-message{
+  text-align: center;
+  font-size: 12px;
+}
+
 .profile {
-  margin-top: 16px;
+  margin-top: 50px;
   margin-bottom: 0px;
   margin-left: 10px;
   margin-right: 10px;
 }
 
 .profile-name {
-  margin: 10px;
+  margin-top: 10px;
+  margin-bottom: 0px;
   text-align: center;
   font-size: 16px;
   font-weight: bold;
 }
 
+.profile-phonetic {
+  margin-top: 0px;
+  text-align: center;
+  font-size: 9px;
+  color: #FFA64D;
+}
+
 .profile-text {
   text-align: center;
   margin-top: 15px;
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-bottom: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 60px;
   font-size: 11px;
 }
