@@ -27,9 +27,35 @@ body {
 
 .contents-message {
   text-align: center;
-  font-size: 14px;
+  font-size: 12px;
 }
 
+/* images */
+img.system-img {
+  margin-top: 6px;
+  margin-bottom: 16px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 8px;
+  width: 50%;
+}
+
+/* main */
+
+.lead {
+  margin-bottom: 0px;
+}
+
+.lead-2 {
+  margin-top: 6px;
+  font-size: 11px;
+}
+
+/* system */
+.system-font {
+  font-size: 14px;
+  text-align: center;
+}
 
 /* contact form */
 .contact-form {
@@ -52,16 +78,4 @@ body {
   text-align: center;
   font-size: 12px;
   color: #FFA64D;
-}
-
-
-/* css効いてるかのチェックのみのcss */
-
-.test-h1 {
-  color: red;
-
-}
-
-.test-p {
-  background-color: blue;
 }
